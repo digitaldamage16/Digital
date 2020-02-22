@@ -2,7 +2,7 @@ name: SAN
 
 on: [push]
 
-jobs:
+jobs:mining
   build:
 
     runs-on: ubuntu-latest
